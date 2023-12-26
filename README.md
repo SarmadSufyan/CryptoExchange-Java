@@ -33,17 +33,29 @@ Choose a coin:
 4. SOL
  
 Enter your choice: 1
+
 Enter desired price: 55
+
 Enter Amount of USDT you wanted to order of: 200
+
 Order details:
+
 Coin: BTC
+
 Desired Price: 55
+
 Amount to Buy: 200.0
+
 Current Price: 55
+
 Order has been placed! Funds added to wallet.
+
 You got 3.6363636363636362 in 55
+
 Do you want to view your funds? (yes/no): yes
+
 Wallet Funds:
+
 BTC: 3.6363636363636362
 
 Notes
