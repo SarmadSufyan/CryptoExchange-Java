@@ -1,5 +1,4 @@
 CryptoExchange Simulation 
-<p>
 Overview
 The "CryptoExchange" project, organized within the "Exchange" package, is a Java application simulating a cryptocurrency exchange. It employs object-oriented programming principles, featuring classes for coins, a crypto exchange, and a wallet. The main class, "apnaExchange," orchestrates user interactions, allowing simulated cryptocurrency transactions with encapsulation and modularity.
 
